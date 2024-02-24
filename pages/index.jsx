@@ -14,7 +14,7 @@ export default function Index({ allPosts }) {
     <>
       <Layout>
         <Head>
-          <title>MeuSurf Vida de Surfista</title>
+          <title>Vida de Surfista</title>
         </Head>
         <Container>
           <Intro />
