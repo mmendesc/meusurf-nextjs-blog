@@ -11,13 +11,13 @@ const navigation = [
   //   href: "/"
   // },
   {
-    name: 'About',
+    name: 'Quem Sou',
     href: '/about',
   },
-  {
-    name: 'Contact',
-    href: '/contact',
-  },
+  // {
+  //   name: 'Contact',
+  //   href: '/contact',
+  // },
 ]
 
 function classNames(...classes) {
