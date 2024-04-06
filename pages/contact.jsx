@@ -12,7 +12,7 @@ export default function Contact() {
         <title>Contact | {BLOG_NAME}</title>
       </Head>
       <Container>
-        <PageHeading>Let&apos;s connect.</PageHeading>
+        <PageHeading>Acompanhe o Blog</PageHeading>
         <ContactPage />
       </Container>
     </Layout>
