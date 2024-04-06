@@ -15,7 +15,7 @@ tags:
   - Equipamento
 ---
 
-Recentemente me vi forçado a fazer uma nova prancha, o motivo: Esqueci uma de minhas pranchas no sol enquanto fui almoçar em uma surf trip em pipa. Deixei ela na sombra mas quando voltei o sol havia mudado de direção e a prancha ficou no sol e ele não tava pra brincadeira. Pra piorar a prancha tem uma parte da pintura preta, que foi justamente onde a prancha derreteu mais. Fica ai o aprendizado pra ter mais cuidado e escolher melhor as cores da prancha.
+Recentemente me vi forçado a fazer uma nova prancha, o motivo: Esqueci uma de minhas pranchas no sol enquanto fui almoçar em uma surf trip em Pipa. Deixei ela na sombra mas quando voltei o sol havia mudado de direção e a prancha ficou no sol e ele não tava pra brincadeira. Pra piorar a prancha tem uma parte da pintura preta, que foi justamente onde a prancha derreteu mais. Fica ai o aprendizado pra ter mais cuidado e escolher melhor as cores da prancha.
 
 Essa era uma prancha bem importante no meu quiver, tinha o apelido de Baianinha devido a sua pintura do BaianaSystem, não era a que mais usava no dia (embora estivesse usando mais ela aqui em condições menores de mares), mas era a minha prancha de segurança para mares maiores e nas viagens que realizei até agora.
 
