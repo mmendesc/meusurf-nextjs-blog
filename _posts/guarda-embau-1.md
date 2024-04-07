@@ -6,13 +6,9 @@ coverImage: '/assets/blog/guarda1/capa.jpg'
 author:
   name: Matheus Fernandes
   picture: '/assets/blog/authors/mf_avatar.jpg'
-slug: guard-embau-1
+slug: guarda-embau-1
 ogImage:
   url: '/assets/blog/guarda1/capa.jpg'
-tags:
-  - Relato
-  - Reflexoes
-  - Equipamento
 ---
 
 Primeiro dia de fato na Guarda do Embaú, acostumando com o frio ainda, então teve aquele desconto pra acordar mais tarde. Queria decidir o que fazer e pra onde ir, então pela manhã fui conversar com o host, o Artur, que me deu algumas dicas de onde ir e alguns picos da região, falou que a direção do swell, podia tá rolando onda na Prainha, que é um pico que temos que pegar uma trilha pra chegar lá.
