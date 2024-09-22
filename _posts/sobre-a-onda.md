@@ -33,11 +33,11 @@ Enquanto estou pensando e focando no que falei acima, a onda vai acontecendo sem
 
 ![](/assets/blog/sobre-a-onda/esquece.gif)
 
-Para conseguir ver a onda com clareza, é preciso estar mais relaxado e presente no momento. É como a vida moderna em que sempre estamos apressados, tendo sempre que estar disponível para responder uma mensagem a qualquer hora, atento a uma promoção que voce não pode perder agora, não podendo perder uma notificação. É difícil mas necessário para aproveitar o momento e de certa forma desacelerar o tempo para apreciar as coisas simples da vida, como parar para olhar o vôo de um pássaro, o balanço das avoares.
+Para conseguir ver a onda com clareza, é preciso estar mais relaxado e presente no momento. É como a vida moderna em que sempre estamos apressados, tendo sempre que estar disponível para responder uma mensagem a qualquer hora, atento a uma promoção que voce não pode perder agora, não podendo perder uma notificação. É difícil mas necessário para aproveitar o momento e de certa forma desacelerar o tempo para apreciar as coisas simples da vida, como parar para olhar o vôo de um pássaro, o balanço das árvores.
 
 Para conseguirmos ver a onda e aprecia-lá precisamos dar essa pausa nesse sentimento de alerta e de urgência, e ter a calma para admirar a onda enquanto surfista surfando aquela onda.   
 
-O Surf exige a manobra certa na hora certa. Meio que já sabia disso, mas não percebia o quanto a hora certa era importante. Esse é o básico da vida como na maioria dos conselhos, tem coisas que só aprendemos vivenciando, alguém pode te falar isso, mas até que você sinta isso por você mesmo, é muito difícil de você dar o peso e atenção para essa informação do modo que ele realmente merece.
+O Surf exige a manobra certa na hora certa. Meio que já sabia disso, mas não percebia o quanto a hora certa era importante. Esse é o básico da vida como na maioria dos conselhos, tem coisas que só aprendemos vivenciando, alguém pode te falar isso, mas até que você sinta isso por você mesmo, é muito difícil de você dar o peso e atenção para essa informação do modo que ela realmente merece.
 
 Acho que recentemente vivenciei isso, e hoje estou conseguindo dar uma atenção maior para a onda, tentando entender suas sessões, como a onda forma, o tipo de drop, a linha que preciso fazer para entrar em sintonia com a onda.
 
