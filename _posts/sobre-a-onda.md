@@ -13,7 +13,7 @@ ogImage:
 
 Recentemente veio tendo uma reflexão/percepção sobre como abordar o Surf no sentido em que focar durante uma sessão de Surf. 
 
-Quando focamos em evoluir no surf geralmente focamos na gente, claro né, só a gente pode mudar nosso surf efetivamente, através de muito treino muita surf analise e muitas horas de surf. Mas acho que passamos a ignorar alto muito essencial e que temos contato constantemente mas que acaba passando batido.
+Quando focamos em evoluir no surf geralmente focamos na gente, claro né, só a gente pode mudar nosso surf efetivamente, através de muito treino, muita surf analise e muitas horas de surf. Mas acho que passamos a ignorar algo muito essencial e que temos contato constantemente mas que acaba passando batido.
 
 <h3 align="center">A ONDA</h3>
 
