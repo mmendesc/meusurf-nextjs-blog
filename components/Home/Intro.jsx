@@ -8,10 +8,10 @@ export default function Intro() {
       </h1>
       <div className="flex-col">
         <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-          Vida e reflexões de um Surfista.
+          Viajando sobre o Surf
         </h4>
         <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-          Reflexão da vez: <strong><i>{REFLECTIONS.slice(-1)}</i></strong>
+          “<strong><i>{REFLECTIONS.slice(-1)}</i></strong>”
         </h4>
       </div>
     </section>
