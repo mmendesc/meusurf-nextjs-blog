@@ -13,16 +13,16 @@ ogImage:
 
 Fiquei um pouco mais de  2 semanas sem surfar agora, fazia tempo que não ficava tanto tempo assim sem surfar.
 
-Foi vagabundagem mesmo e preguiça, mas sabendo que era bom o descanso tempo, a temporada de surf foi boa.
+Foi vagabundagem mesmo e preguiça, mas sabia que era também era bom um descanso, a temporada de surf foi boa e o corpo pedia um pouco.
 
 Mas dei a pausa também porque o mar deu uma baixada nos últimos dias e cometi o pecado de ficar vendo as cameras das praias, e ainda fiquei sem carro o que limita as possibilidades.
 
 ![](/assets/blog/pausa-surf/carro.jpg)
 *Respirando por aparelhos*
 
-Mas fiquei tava no surf imaginário, refletindo sobre a teoria e técnica do surf, vendo videos de surf, fiz um treino de skate, mas fui deixando o conhecimento e aprendizado da ultima temporada assentar. Acho que esses momentos são importantes. 
+Mas fiquei no surf imaginário, refletindo sobre a teoria e técnica do surf, vendo videos de surf, fiz um treino de skate, mas fui deixando o conhecimento e aprendizado da ultima temporada assentar. Acho que esses momentos são importantes. 
 
-Tal qual um bebê precisa dormir , pro cérebro assimilar tudo que ele viu/viveu, acho que ter algumas pausas no surf ajuda a a compilar o conhecimento , da tempo pra refletir e pensar no surf. E você pode tirar um tempo pra fazer outras coisas que vc esquece durante a temporada.
+Tal qual um bebê precisa dormir , pro cérebro assimilar tudo que ele viu/viveu, acho que ter algumas pausas no surf ajuda a compilar o conhecimento , da tempo pra refletir e pensar no surf. E você pode tirar um tempo pra fazer outras coisas que vc esquece durante a temporada.
 
 Mas então a vontade de surfar vai aumentando a cada dia e você quer voltar pro mar.
 
@@ -41,7 +41,6 @@ E ao longo da pausa , ao passar dos dias e do tempo a vontade de surfar vai aume
 
 <details>
     <summary>Clique aqui</summary>
-    <h3 align="center">SURF</h3>
     <Image
               src="/assets/blog/pausa-surf/surf.jpg"
               height={24}
@@ -62,6 +61,6 @@ Pelo menos isso é o que eu senti e me fez querer fazer esse post.
 
 Mas ai não dá uma semana e ja tô na mesma loucura de antes de novo.
 
-Mas perceber isso é bom, faz pensar em tentar manter esse espirito por mais tempo, as coisas seria mais fáceis. E me faz tentar perceber quando a chave vai virar pro modo de antes.
+Mas perceber isso é bom, faz pensar em tentar manter esse espirito por mais tempo, as coisas seriam mais fáceis. E me faz tentar perceber quando a chave vai virar pro modo de antes.
 
 
